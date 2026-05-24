@@ -4,8 +4,6 @@ Pay me [here](https://coindrop.to/sam) - especially if you find the software use
 
 ## NOTICE
 
-NOTICE
-
 Development and maintenance are moving from the following GitHub accounts/orgs:
 
 - github.com/mymel2001
